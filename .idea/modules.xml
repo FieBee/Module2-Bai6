@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai6.iml" filepath="$PROJECT_DIR$/.idea/Bai6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class Circle and Cylinder/Class Circle and Cylinder.iml" filepath="$PROJECT_DIR$/Class Circle and Cylinder/Class Circle and Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point2d and Point3d/Point2d and Point3d.iml" filepath="$PROJECT_DIR$/Point2d and Point3d/Point2d and Point3d.iml" />
       <module fileurl="file://$PROJECT_DIR$/Th-System of geometric objects/Th-System of geometric objects.iml" filepath="$PROJECT_DIR$/Th-System of geometric objects/Th-System of geometric objects.iml" />
     </modules>
   </component>
