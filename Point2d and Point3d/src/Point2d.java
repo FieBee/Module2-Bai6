@@ -1,8 +1,11 @@
 public class Point2d {
-    private float x;
-    private float y;
+    protected float x;
+    protected float y;
 
-    public Point2d(){};
+    public Point2d(){
+        this.x = 0.0f;
+        this.y = 0.0f;
+    };
     public Point2d(float x, float y) {
         this.x = x;
         this.y = y;
@@ -39,6 +42,6 @@ public class Point2d {
         return "Point2d{" +
                 "x=" + x +
                 ", y=" + y +
-                '}' + getXY();
+                '}';
     }
 }

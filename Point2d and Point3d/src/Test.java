@@ -12,7 +12,11 @@ public class Test {
         Point3d d32 = new Point3d(4,4,4);
         System.out.println(d32);
 
-        System.out.println(d21.getXY());
+        System.out.println(d32.getXY());
+
+        for (float element: d22.getXY()){
+            System.out.println(element);
+        }
 
     }
 }

@@ -2,6 +2,9 @@ public class Point3d extends Point2d{
     private float z;
 
     public Point3d() {
+        this.x = 0.0f;
+        this.y = 0.0f;
+        this.z = 0.0f;
     }
 
     public Point3d(float x, float y, float z) {
@@ -32,6 +35,6 @@ public class Point3d extends Point2d{
     public String toString() {
         return "Point3d{" +
                 "z=" + z +
-                '}' + super.toString() +" "+ getXYZ();
+                '}' + super.toString();
     }
 }
